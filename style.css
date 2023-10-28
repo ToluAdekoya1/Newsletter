@@ -160,6 +160,7 @@ span {
 
   body {
     background-color: white;
+    height: 100vh;
   }
   main {
     display: block;
@@ -167,7 +168,7 @@ span {
     margin-top: 0rem;
     border-radius: 0px;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     position: relative;
     box-shadow: rgba(0, 0, 0, 0) 0px 3rem 5rem;
     /* overflow: hidden; */
