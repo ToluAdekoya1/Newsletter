@@ -15,6 +15,7 @@ subsBtn.addEventListener('click', ()=> {
 		twoSpan.textContent = input.value;
 	}
 	else{
+		oneSpan.classList.remove('hidden');
 		oneSpan.classList.add('error');
 		input.classList.add('fail');
 		input.addEventListener('focus', () => {
