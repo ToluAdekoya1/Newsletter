@@ -161,6 +161,7 @@ span {
   body {
     background-color: white;
     height: 100vh;
+    padding-bottom: 30px;
   }
   main {
     display: block;
@@ -195,7 +196,7 @@ span {
     top: 180px;
   }
   .dismiss {
-    margin-top: 270px;
+    margin-top: 250px;
   }
   .sucessTxt {
     width: 340px;
